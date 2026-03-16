@@ -47,6 +47,7 @@ In normal use, you should not need to manually run:
 - if you add a new screener later, save the script and run `setupTriggers()` once again
 
 ## Main Docs
+- `FRESH_SETUP_CHECKLIST.md`: shortest step-by-step setup list
 - `SETUP_GUIDE.md`: full setup and configuration flow
 - `TRIGGERS_GUIDE.md`: how automation, scheduling, and backfill triggers work
 - `ANALYSIS_LOOKUP.md`: how to read the dashboard, charts, signals, and scanner sheets
