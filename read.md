@@ -50,6 +50,7 @@ In normal use, you should not need to manually run:
 - `SETUP_GUIDE.md`: full setup and configuration flow
 - `TRIGGERS_GUIDE.md`: how automation, scheduling, and backfill triggers work
 - `ANALYSIS_LOOKUP.md`: how to read the dashboard, charts, signals, and scanner sheets
+- `DETAILED_GUIDE.md`: heavy end-to-end operational reference
 - `audit.md`: technical audit of the indicator and signal engine
 
 ## Most Useful Manual Functions
